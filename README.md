@@ -1,4 +1,4 @@
-### Hi there 👋
+![github-header-image](https://github.com/mmontanes/mmontanes/assets/34583968/55d063c7-a383-4b98-94b8-d1b0e805b4d2)
 
 <!--
 **mmontanes/mmontanes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
