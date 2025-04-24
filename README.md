@@ -33,19 +33,22 @@ Senior Android Engineer with a strong background in CI/CD and DevOps. I enjoy bu
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
+### 📊 GitHub Stats
 
-### 📊 GitHub Stats & Activity
+<p align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=mmontanes&show_icons=true&theme=github_dark" 
+      media="(prefers-color-scheme: dark)" />
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=mmontanes&show_icons=true&theme=default" 
+      media="(prefers-color-scheme: light)" />
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=mmontanes&show_icons=true&theme=default" 
+      alt="GitHub Stats" />
+  </picture>
+</p>
 
-<table>
-<tr>
-<td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=mmontanes&show_icons=true&theme=default" alt="GitHub Stats" />
-</td>
-<td valign="top" width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mmontanes" alt="GitHub Streak" />
-</td>
-</tr>
-</table>
 
 ---
 
