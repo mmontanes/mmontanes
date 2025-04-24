@@ -34,7 +34,7 @@ Senior Android Engineer with a strong background in CI/CD and DevOps. I enjoy bu
 
 ---
 
-### 📊 GitHub Overview
+### 📊 GitHub Stats & Activity
 
 <table>
 <tr>
@@ -42,9 +42,7 @@ Senior Android Engineer with a strong background in CI/CD and DevOps. I enjoy bu
 <img src="https://github-readme-stats.vercel.app/api?username=mmontanes&show_icons=true&theme=default" alt="GitHub Stats" />
 </td>
 <td valign="top" width="50%">
-<img src="https://raw.githubusercontent.com/mmontanes/mmontanes/main/profile-summary-card-output/default/0-profile-details.svg" alt="Profile Details" />
-<img src="https://raw.githubusercontent.com/mmontanes/mmontanes/main/profile-summary-card-output/default/1-repos-per-language.svg" alt="Languages" />
-<img src="https://raw.githubusercontent.com/mmontanes/mmontanes/main/profile-summary-card-output/default/3-most-commit-language.svg" alt="Commits" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mmontanes" alt="GitHub Streak" />
 </td>
 </tr>
 </table>
